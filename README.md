@@ -12,7 +12,7 @@
 - 📫 How to reach me **figueiredocm17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-   <i class="fa-brands fa-square-linkedin"> https://www.linkedin.com/in/caio-monteiro-de-figueiredo-48847a69/</i>
+   https://www.linkedin.com/in/caio-monteiro-de-figueiredo-48847a69
 <p align="left">
 </p>
 
