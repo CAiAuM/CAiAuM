@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
-<h3 align="center">I'm a junior full stack developer from Brazil</h3>
-
-- 🔭 I’m currently working on **personal project**
-
-- 🌱 I’m currently learning **Ruby on Rails, React**
-
-- 👯 I’m looking to collaborate on **open-source**
-
-- 💬 Ask me about **Ruby, Ruby on Rails, SQL**
 
 - 📫 How to reach me **figueiredocm17@gmail.com**
 
