@@ -2,10 +2,6 @@
 
 <img width="100%" alt="imagembanner" src="https://github.com/user-attachments/assets/8d5c3b30-4953-4f47-855b-fd6fed86fd3c" />
 
-# Hi there 👋 I'm Caio Figueiredo
-
-### Full-Stack Web Developer from Brazil 🇧🇷
-
 <a href="https://github.com/CAiAuM">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Ruby+on+Rails+Enthusiast;Always+Learning+New+Technologies"/>
 </a>
