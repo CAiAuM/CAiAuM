@@ -7,61 +7,46 @@
 ### Full-Stack Web Developer from Brazil 🇧🇷
 
 <a href="https://github.com/CAiAuM">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Ruby+on+Rails+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Ruby+on+Rails+Enthusiast;Always+Learning+New+Technologies"/>
 </a>
 
 </div>
 
-## 🚀 About Me
+<br>
 
-- 💻 Full-Stack Web Developer
-- 🌱 Currently learning **React** and **Ruby on Rails**
-- 🎯 Focused on building clean and scalable applications
-- 📫 Reach me at **figueiredocm17@gmail.com**
-
-## 🌐 Connect With Me
+<h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/caiomfigueiredo">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/caiomfigueiredo">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 </p>
 
-## 🛠 Tech Stack
+<h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ruby,rails,python,postgres,mysql,git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ruby,rails,python,postgres,mysql,git,github,vscode,figma,postman"/>
 </p>
 
-## 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=CAiAuM&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=CAiAuM&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAiAuM&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAiAuM&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-## 🔥 GitHub Streak
+<h3 align="center">🔥 GitHub Streak</h3>
 
 <div align="center">
 
-<img height="155em" src="https://streak-stats.demolab.com?user=CAiAuM&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://streak-stats.demolab.com?user=CAiAuM&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-## 📌 Featured Repositories
-
-<a href="https://github.com/CAiAuM/Gamers-Oracle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CAiAuM&repo=Gamers-Oracle&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/CAiAuM/Level-Up-Real-Life">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CAiAuM&repo=Level-Up-Real-Life&theme=tokyonight&hide_border=true" />
-</a>
-
-<br><br>
+<br>
 
 <div align="center">
 
